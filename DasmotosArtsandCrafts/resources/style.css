@@ -1,0 +1,50 @@
+
+/* Tried below to apply Helvetica once to entire document to avoid duplication but could not get it to work?
+
+.html {
+font-family: Helvetica;
+}*/
+
+.heading{
+  background-image: url("../Images/pattern.jpeg");
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+h3 {
+    font-family: Helvetica;
+}
+
+.price {
+  color:blue;
+  font-family:Helvetica;
+}
+
+.brushes, .frames, .paint {
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint{
+  background-color: skyblue;
+}
